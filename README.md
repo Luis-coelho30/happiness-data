@@ -4,8 +4,8 @@ Análise da relação entre idade e felicidade em escala global, usando dados do
 
 ## Integrantes do projeto
 
-Luís Augusto Coelho de Souza
-Guilherme Schnekenberg Teixeira
+- Luís Augusto Coelho de Souza
+- Guilherme Schnekenberg Teixeira
 
 ## Estrutura do projeto
 ```
