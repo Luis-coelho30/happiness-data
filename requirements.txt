@@ -1,0 +1,8 @@
+pandas
+requests
+numpy
+scikit-learn
+seaborn
+matplotlib
+country_converter
+pycountry
