@@ -8,7 +8,8 @@ happiness-data/
 ├── README.md
 ├── requirements.txt
 ├── lab_helpers.py
-└── lab_happiness_country.ipynb
+├── .gitignore
+└── happiness_data.ipynb
 ```
 
 ## Dados
