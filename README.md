@@ -3,6 +3,7 @@
 Análise da relação entre idade e felicidade em escala global, usando dados do World Happiness Report 2024 e indicadores do Banco Mundial.
 
 ## Integrantes do projeto
+
 Luís Augusto Coelho de Souza
 Guilherme Schnekenberg Teixeira
 
