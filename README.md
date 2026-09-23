@@ -3,11 +3,13 @@
 Análise da relação entre idade e felicidade em escala global, usando dados do World Happiness Report 2024 e indicadores do Banco Mundial.
 
 ## Estrutura do projeto
+```
 happiness-data/
 ├── README.md
 ├── requirements.txt
 ├── lab_helpers.py
-├── lab_happiness_country.ipynb
+└── lab_happiness_country.ipynb
+```
 
 ## Dados
 
